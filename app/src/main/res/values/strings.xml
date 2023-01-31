@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Reproductor</string>
+    <string name="placeholder">Necromancin\' dancin\'</string>
+    <string name="NecroSongTitle">Necromancin\' dancin\'</string>
+    <string name="PhotoSongTitle">Photosynthesis</string>
+    <string name="ChangeSongTitle">Don\'t make me change</string>
+    <string name="SmokeSongTitle">Smoke signals</string>
+    <string name="EverythingSongTitle">Everything machine</string>
+    <string name="NoMoreSongs">No hay mas canciones</string>
+</resources>
